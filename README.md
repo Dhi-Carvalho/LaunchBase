@@ -80,10 +80,18 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
     - Condicionais
     - Operadores relacionais e comparativos
     - Operadores lógicos e aritméticos
+    ---
   
     **🛠️ Desafio 1-1: Primeiros Passos com JS**
     - [Cálculo do IMC](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.1-Primeiros_passos_com_JS/calculo_de_IMC.js)
     - [Cálculo de aposentadoria](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.1-Primeiros_passos_com_JS/calculo_de_aposentadoria.js)
+    ---
+    - Objetos
+    - Vetores
+    ---
+    **🛠️ Desafio 1-2: Lidando com objetos e vetores**
+    - [Construção e impressão de objetos](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.2-Lidando_com_objetos_e_vetores/construcao_impressao_objetos.js)
+    - [Vetores e objetos](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.2-Lidando_com_objetos_e_vetores/vetores_objetos.js)
 
 ---
 ---
