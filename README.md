@@ -92,6 +92,18 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
     **🛠️ Desafio 1-2: Lidando com objetos e vetores**
     - [Construção e impressão de objetos](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.2-Lidando_com_objetos_e_vetores/construcao_impressao_objetos.js)
     - [Vetores e objetos](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.2-Lidando_com_objetos_e_vetores/vetores_objetos.js)
+    ---
+    - Funções e métodos
+    - Estrutura de repetição
+    - Escopos
+    ---
+    **🛠️ Desafio 1-3: Funções e estruturas de repetição**
+    - [Usuários e tecnologias](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.3-Funcoes_e_estruturas_de_repeticao/usuarios_e_tecnologias.js)
+    - [Busca por tecnologia](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.3-Funcoes_e_estruturas_de_repeticao/busca_por_tecnologia.js)
+    - [Soma de despesas e receitas](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.3-Funcoes_e_estruturas_de_repeticao/soma_de_despesas_e_receitas.js)
+    ---
+    - Boleanos
+    - Organização, padronização e escrita
 
 ---
 ---
