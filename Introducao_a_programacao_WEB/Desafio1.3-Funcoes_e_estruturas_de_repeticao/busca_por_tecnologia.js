@@ -25,6 +25,6 @@ const usuarios = [
     const usuarioTrabalhaCSS = usuarioUsaCSS(usuario);
 
     if(usuarioTrabalhaCSS) {
-        console.log(`O usuário ${usuario.nome} trabalha com CSS.`);
+        console.log(`O usuário ${usuario.nome} trabalha com CSS`);
     }
   };
