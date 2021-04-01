@@ -115,6 +115,13 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
       - Iniciando no HTML
       - Desenvolvendo com Live Server
       - Iniciando com CSS
+      - 🧗 [Projeto: Parte 01](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_no_Front-end/Primeiro_projeto_com_HTML_e_CSS/index.html)
+    - 🏷️ Menu do site
+      - Criando estrutura do menu com HTML
+      - Espaçamento com CSS
+      - Resetando estilos do navegador
+      - Conhecendo a cascata do CSS
+      - Estilizando fontes e links do menu
 
 ---
 ---
@@ -125,13 +132,22 @@ As seguintes ferramentas foram utilizadas durante o BootCamp:
 ---
 **⚙️ Ambiente de Desenvolvimento:**
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ---
 **💻 Linguagem de Programação:**
+
 - **JavaScript**
 
+---
+**💻 Linguagens:**
 
+- **HTML**
+- **CSS**
+
+---
+**💻 Extensões:**
+- **[Liveserver](https://www.npmjs.com/package/live-server)**
 ---
 ---
 
