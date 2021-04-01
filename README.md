@@ -122,6 +122,7 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
       - Resetando estilos do navegador
       - Conhecendo a cascata do CSS
       - Estilizando fontes e links do menu
+      - 🧗 [Projeto: Parte 02](https://github.com/Dhi-Carvalho/LaunchBase/tree/main/Introducao_no_Front-end/Menu_do_site/index.html)
       - **🛠️ [Desafio 2-1: Primeiro HTML](https://github.com/Dhi-Carvalho/LaunchBase/tree/main/Introducao_no_Front-end/Desafio2.1-Primeiro_HTML)**
 
 ---
