@@ -30,7 +30,6 @@
 <p align="center">
  <a href="#-sobre-o-BootCamp">Sobre</a> •
  <a href="#-Cronagrama-de-Estudos ">Cronograma</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> •  
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
@@ -69,7 +68,6 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
     - Ambiente Windows
     - 🛠️ [Ambiente Linux](https://xesque.rocketseat.dev/platform/1573473115506.pdf)
 
-
 ---
 **👨‍🚀 Fase 02**:
   - **📑Introdução à programção WEB:**
@@ -104,6 +102,19 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
     ---
     - Boleanos
     - Organização, padronização e escrita
+    ---
+    **🛠️ Desafio 1-4: Funções e estruturas de repetição**
+    - [Intro](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.4-Aplicacao_Operacoes_bancarias/intro.js)
+    - [Adicionar transações](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.4-Aplicacao_Operacoes_bancarias/adicionar_transacoes.js)
+    - [Relatórios](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_a_programacao_WEB/Desafio1.4-Aplicacao_Operacoes_bancarias/relatorios.js)
+
+---
+  - **📑Introdução no Front-end:**
+    - 🏷️ Primeiro projeto com HTML e CSS
+      - O que é Back end e Front end
+      - Iniciando no HTML
+      - Desenvolvendo com Live Server
+      - Iniciando com CSS
 
 ---
 ---
@@ -112,7 +123,14 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
 As seguintes ferramentas foram utilizadas durante o BootCamp:
 
 ---
+**⚙️ Ambiente de Desenvolvimento:**
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+**💻 Linguagem de Programação:**
 - **JavaScript**
+
 
 ---
 ---
