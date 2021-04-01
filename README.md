@@ -124,6 +124,15 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
       - Estilizando fontes e links do menu
       - 🧗 [Projeto: Parte 02](https://github.com/Dhi-Carvalho/LaunchBase/tree/main/Introducao_no_Front-end/Menu_do_site/index.html)
       - **🛠️ [Desafio 2-1: Primeiro HTML](https://github.com/Dhi-Carvalho/LaunchBase/tree/main/Introducao_no_Front-end/Desafio2.1-Primeiro_HTML)**
+    - 🏷️ Página sobre
+      - Adicionando imagens no HTML
+      - Separando e importando estilos
+      - Trabalhando com texto no HTML
+      - Estilizando imagem do avatar
+      - Estilizando textos e fontes com CSS
+      - Variáveis no CSS
+      - Links para redes socias
+      - 🧗 [Projeto: Parte 03](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_no_Front-end/Pagina_sobre/index.html)
 
 ---
 ---
