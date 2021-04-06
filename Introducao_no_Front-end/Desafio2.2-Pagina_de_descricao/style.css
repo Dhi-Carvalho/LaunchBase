@@ -29,7 +29,7 @@ header {
 }
 
 .links a:hover {
-  color: #929292;
+  color: #D4C2FF;
   transition: color 200ms;
 }
 
@@ -130,4 +130,9 @@ footer {
   margin: 0 30px;
   padding-top: 5px;
   text-decoration: none;
+}
+
+#links a:hover {
+  color: #D4C2FF;
+  transition: color 200ms;
 }
