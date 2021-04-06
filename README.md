@@ -132,7 +132,7 @@ O BootCamp está dividido em fases, para que o aluno tenha um melhor aprendizado
       - Estilizando textos e fontes com CSS
       - Variáveis no CSS
       - Links para redes socias
-      - 🧗 [Projeto: Parte 03](https://github.com/Dhi-Carvalho/LaunchBase/blob/main/Introducao_no_Front-end/Pagina_sobre/index.html)
+      - 🧗 [Projeto: Parte 03](https://github.com/Dhi-Carvalho/LaunchBase/tree/main/Introducao_no_Front-end/Pagina_sobre)
 
 ---
 ---
